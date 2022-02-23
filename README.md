@@ -1,6 +1,5 @@
 ## Advent of Code 2018
-<details>
-<summary>Advent of Code 2018</summary>
+
 [adventofcode](https://adventofcode.com/)
 [eqgrp-free-file](https://github.com/nneonneo/eqgrp-free-file.git)
 [ffsend](https://github.com/nneonneo/ffsend.git)
