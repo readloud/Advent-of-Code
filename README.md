@@ -3,17 +3,28 @@
 This is a collection of awesome resources related to the yearly
 [Advent of Code] challenge.
 
-[Advent of Code](https://adventofcode.com/)
+<details>
+<summary>[Advent of Code](https://adventofcode.com/)</summary>
 
 * [The Official AoC Website](https://adventofcode.com/)
+  
 * [The AoC Subreddit](https://www.reddit.com/r/adventofcode/)
+  
 * [Project Templates](#project-templates)
+  
 * [Tools and Utilities](#tools-and-utilities)
+  
 * [Other Advent Calendars](#other-advent-calendars)
+  
 * [2018](/2018.md)
+  
 * [2019](/2019.md)
+  
 * [2020](/2020.md)
+  
 * [2021](#2021)
+  </details>
+  
   <details>
   <summary>Solutions</summary>
   
@@ -225,39 +236,65 @@ in your favourite language.*
 * [alvesvaren/AoC-template](https://github.com/alvesvaren/AoC-template) *(Python)*
 </details>
     
-## Tools and Utilities
+<details>
+  <summary>## Tools and Utilities</summary>
 
 * [Alfie](https://alfie.prodo.ai/) -- Online JS editor that helps users solve AoC problems.
+  
 * Browser extension for private leaderboard visualization
   * [Chrome extension](https://chrome.google.com/webstore/detail/advent-of-code-ranking/jbnlafikncgjjhdkmfhokcplgahebmjl)
   * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/aoc-ranking/)
+  
 * Browser extension which enhances your personal stats page with a time from Part 1 to Part 2 column (it also tracks when you've first opened a puzzle and offsets the completion times accordingly)
   * [Chrome extension](https://chrome.google.com/webstore/detail/advent-of-code-part-2-timer/fhmjpoppaplfhgnknpbaaklgdnnimfbn)
   * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/advent-of-code-part-2-timer/)
+  
 * [Globals medals overview](http://www.maurits.vdschee.nl/scatterplot/medals.html) -- Alternative global leaderboard showing first, second and third places as gold, silver and bronze medals.
+  
 * [Scatterplot of first 100](http://www.maurits.vdschee.nl/scatterplot/) -- Scatterplot of the time taken to solve the parts of each puzzle by the first 100 people that solved it.
+  
 * [aocdl](https://github.com/GreenLightning/advent-of-code-downloader) -- Command-line utility that automatically downloads your personal input file while you read the puzzle description *(Go)*.
+  
 * [aocinput](https://github.com/dds/aoc2020/blob/main/cmd/aocinput/aocinput.go) -- CLI for getting inputs. Clipboard support. Polite to AoC. Nice help and options. *(Go)*
+  
 * [aoc_rb](https://github.com/pacso/aoc_rb) -- A Ruby gem that generates an empty AoC project, and provides command-line tools for fetching input and submitting solutions  *(Ruby)*
+  
 * [aoc-cli](https://github.com/keirua/aoc-cli) -- Command-line utility that helps solve problems in ruby: it downloads your personal input file, creates the sample source files and benchmarks your solutions *(Ruby)*.
+  
 * [AoCHelper](https://github.com/eduherminio/AoCHelper) -- NuGet library that simplifies puzzle solving and provides benchmarking *(.NET)*.
+  
 * [AdventOfCode.Runner](https://github.com/vladsm/adventofcode-runner) -- NuGet package that automatically provides your puzzles solvers with the input from the AOC site and verifies calculated answers *(.NET / C#)*.
+  
 * [aocleaderboard](https://github.com/scarvalhojr/aocleaderboard) -- get over the 200-member limit for private leaderboards and combine multiple leaderboards in a single page with recalculated scores.
+  
 * [advent-of-code-api](https://hackage.haskell.org/package/advent-of-code-api) -- Haskell library for querying AOC prompts, inputs, and leaderboards *(Haskell)*
+  
 * [advent-of-code-ocr](https://github.com/mstksg/advent-of-code-ocr#readme) -- Command line utility and Haskell library for parsing AoC ascii art words *(Haskell)*
+  
 * [advent-of-code-ocr](https://github.com/bsoyka/advent-of-code-ocr) -- Python module for parsing AoC ascii art words *(Python)*
+  
 * [aoc-ranking](https://github.com/freedomofkeima/aoc-ranking) -- Show all non-zero score AoC participants in one, global scoreboard. *(Python)*
+  
 * [aoc-cli](https://github.com/scarvalhojr/aoc-cli) -- Read puzzle descriptions, download input, and submit answers from the comfort of your terminal. *(Rust)*
+  
 * [adventofcode-badge](https://github.com/stackcats/adventofcode-badge) -- An interface over Shields.io to facilitate the creation of badges from Advent of Code.
+  
 * [@aocjs/cli](https://github.com/aocjs/cli) -- Package for executing solutions with hot reload and data fetching *(JavaScript, TypeScript)*
+  
 * [eggnog](https://github.com/breakthatbass/eggnog) -- CLI for getting input, directions (with nice colors!), and submitting answers. Caches absolutely everything. *(C)*
+  
 * [aoc-badges-action](https://github.com/J0B10/aoc-badges-action) -- A GitHub action for updating various aoc-related badges in your README *(GitHub Action, Python)*
+  
 * [advent-readme-stars](https://github.com/k2bd/advent-readme-stars) -- A GitHub action that adds and maintains a table of your AoC progress to your README *(GitHub Action, Python)*
+  
 * [aoctimer](https://github.com/caderek/aoctimer) -- A language-agnostic, multiplatform tool to measure your solution time in relative units, so you can share and compare your results with others.
+  
 * [aocrunner](https://github.com/caderek/aocrunner) -- A fast solutions runner and template generator, with simple CLI, customizable template, simple testing utility, live reload, and adventofcode.com integration. *(JavaScript, TypeScript)*
+  
 * [advent-of-code-client](https://github.com/toblu/advent-of-code-client) -- A Node.js package for fetching inputs, running puzzle challenges and submitting answers to adventofcode.com directly from your JavaScript code. Also includes some commonly used & customizable input transformation functions. *(JavaScript)*
+  
 * [AoC-execution-time-table-generator](https://github.com/coralkashri/AoC-execution_time_table_generator) -- A C++20 tool to generate an execution time table for both parts of each AoC day, based on input file with time details.
-
+</details>
 ## Other Advent Calendars
 
 *24 days of cool stuff regarding <insert-technology-here>.*
