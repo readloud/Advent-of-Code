@@ -238,6 +238,7 @@ in your favourite language.*
 ## Tools and Utilities
 <details>
   <summary>Tools and Utilities</summary>
+  
 * [Alfie](https://alfie.prodo.ai/) -- Online JS editor that helps users solve AoC problems.
   
 * Browser extension for private leaderboard visualization
