@@ -16,6 +16,7 @@ This is a collection of awesome resources related to the yearly
 * [2021](#2021)
   <details>
   <summary>details</summary>
+  
     * [Solutions](#solutions)
   
     * [Ada](#ada)
@@ -154,8 +155,8 @@ This is a collection of awesome resources related to the yearly
     * [Zsh](#zsh)
   
   * [Live Streams](#live-streams)
+  ---
 </details>
----
 
 ## Project Templates
 
