@@ -14,7 +14,8 @@ This is a collection of awesome resources related to the yearly
 * [2019](/2019.md)
 * [2020](/2020.md)
 * [2021](#2021)
-  * [Solutions](#solutions)
+  <details>
+  <summary>* [Solutions](#solutions)</summary>
     * [Ada](#ada)
     * [APL](#apl)
     * [Assembly](#assembly)
@@ -84,7 +85,7 @@ This is a collection of awesome resources related to the yearly
     * [Zig](#zig)
     * [Zsh](#zsh)
   * [Live Streams](#live-streams)
-
+</details>
 ---
 
 ## Project Templates
