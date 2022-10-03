@@ -5,8 +5,8 @@ This is a collection of awesome resources related to the yearly
 
 [Advent of Code](https://adventofcode.com/)
 
- <details> 
-<summary></summary>
+<details> 
+<summary>Advent of Code</summary>
   
 * [The Official AoC Website](https://adventofcode.com/)
   
@@ -26,7 +26,6 @@ This is a collection of awesome resources related to the yearly
   
 * [2021](#2021)
   </details>
-  
   <details>
   <summary>Solutions</summary>
   
@@ -177,7 +176,7 @@ This is a collection of awesome resources related to the yearly
 in your favourite language.*
 
 <details>
-  <summary>Templates</summary>
+  <summary>Project Templates</summary>
     
 * [S-ecki/AdventOfCode-Starter-Dart](https://github.com/S-ecki/AdventOfCode-Starter-Dart) *(Dart)*
     
@@ -240,7 +239,7 @@ in your favourite language.*
     
 ## Tools and Utilities
 <details>
-  <summary></summary>
+  <summary>Tools and Utilities</summary>
 * [Alfie](https://alfie.prodo.ai/) -- Online JS editor that helps users solve AoC problems.
   
 * Browser extension for private leaderboard visualization
@@ -297,6 +296,7 @@ in your favourite language.*
   
 * [AoC-execution-time-table-generator](https://github.com/coralkashri/AoC-execution_time_table_generator) -- A C++20 tool to generate an execution time table for both parts of each AoC day, based on input file with time details.
 </details>
+
 ## Other Advent Calendars
 
 *24 days of cool stuff regarding <insert-technology-here>.*
