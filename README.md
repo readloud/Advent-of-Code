@@ -15,7 +15,8 @@ This is a collection of awesome resources related to the yearly
 * [2020](/2020.md)
 * [2021](#2021)
   <details>
-  <summary>* [Solutions](#solutions)</summary>
+  <summary>details</summary>
+    * [Solutions](#solutions)
     * [Ada](#ada)
     * [APL](#apl)
     * [Assembly](#assembly)
