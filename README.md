@@ -17,74 +17,142 @@ This is a collection of awesome resources related to the yearly
   <details>
   <summary>details</summary>
     * [Solutions](#solutions)
+  
     * [Ada](#ada)
+  
     * [APL](#apl)
+  
     * [Assembly](#assembly)
+  
     * [AWK](#awk)
+  
     * [Bash](#bash)
+  
     * [BQN](#bqn)
+  
     * [C](#c)
+  
     * [C#](#c-1)
+  
     * [C++](#c-2)
+  
     * [Clojure](#clojure)
+  
     * [Common Lisp](#common-lisp)
+  
     * [Crystal](#crystal)
+  
     * [D](#d)
+  
     * [Dart](#dart)
+  
     * [Elixir](#elixir)
+  
     * [Elm](#elm)
+  
     * [Erlang](#erlang)
+  
     * [Excel](#excel)
+  
     * [F#](#f)
+  
     * [Go](#go)
+  
     * [Groovy](#groovy)
+  
     * [Hamler](#hamler)
+  
     * [Haskell](#haskell)
+  
     * [Haxe](#haxe)
+  
     * [HolyC](#holyc)
+  
     * [Hoon](#hoon)
+  
     * [Idris](#idris)
+  
     * [J](#J)
+  
     * [Java](#java)
+  
     * [JavaScript](#javascript)
+  
     * [jq](#jq)
+  
     * [Julia](#julia)
+  
     * [Kotlin](#kotlin)
+  
     * [LDPL](#ldpl)
+  
     * [Lua](#lua)
+  
     * [MATLAB](#matlab)
+  
     * [Nim](#nim)
+  
     * [Objective-C](#objc)
+  
     * [OCaml](#ocaml)
+  
     * [PHP](#php)
+  
     * [Perl](#perl)
+  
     * [Pony](#pony)
+  
     * [PowerShell](#powershell)
+  
     * [Prolog](#prolog)
+  
     * [Python](#python)
+  
     * [R](#r)
+  
     * [Racket](#racket)
+  
     * [Raku](#raku)
+  
     * [ReasonML](#reasonml)
+  
     * [Red](#red)
+  
     * [REXX](#rexx)
+  
     * [Ruby](#ruby)
+  
     * [Rust](#rust)
+  
     * [Smalltalk](#smalltalk)
+  
     * [Scala](#scala)
+  
     * [Scheme](#scheme)
+  
     * [Solidity](#solidity)
+  
     * [SpectX](#spectx)
+  
     * [SQL](#sql)
+  
     * [Standard ML](#standard-ml)
+  
     * [Swift](#swift)
+  
     * [TypeScript](#typescript)
-      * [Deno](#deno)
+        * [Deno](#deno)
+  
     * [Unison](#unison)
+  
     * [VB.NET](#vbnet)
+  
     * [Whitespace](#whitespace)
+  
     * [Zig](#zig)
+  
     * [Zsh](#zsh)
+  
   * [Live Streams](#live-streams)
 </details>
 ---
