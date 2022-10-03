@@ -162,8 +162,9 @@ This is a collection of awesome resources related to the yearly
 
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
+
 <details>
-  <summary>Templates<summary>
+  <summary>Templates</summary>
     
 * [S-ecki/AdventOfCode-Starter-Dart](https://github.com/S-ecki/AdventOfCode-Starter-Dart) *(Dart)*
     
