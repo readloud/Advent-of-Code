@@ -3,9 +3,11 @@
 This is a collection of awesome resources related to the yearly
 [Advent of Code] challenge.
 
-<details>
-<summary>[Advent of Code](https://adventofcode.com/)</summary>
+[Advent of Code](https://adventofcode.com/)
 
+ <details> 
+<summary></summary>
+  
 * [The Official AoC Website](https://adventofcode.com/)
   
 * [The AoC Subreddit](https://www.reddit.com/r/adventofcode/)
@@ -236,9 +238,9 @@ in your favourite language.*
 * [alvesvaren/AoC-template](https://github.com/alvesvaren/AoC-template) *(Python)*
 </details>
     
+## Tools and Utilities
 <details>
-  <summary>## Tools and Utilities</summary>
-
+  <summary></summary>
 * [Alfie](https://alfie.prodo.ai/) -- Online JS editor that helps users solve AoC problems.
   
 * Browser extension for private leaderboard visualization
