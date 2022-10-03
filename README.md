@@ -15,7 +15,7 @@ This is a collection of awesome resources related to the yearly
 * [2020](/2020.md)
 * [2021](#2021)
   <details>
-  <summary>details</summary>
+  <summary>Solutions</summary>
   
     * [Solutions](#solutions)
   
@@ -162,37 +162,68 @@ This is a collection of awesome resources related to the yearly
 
 *Templates, cookiecutters and skeletons for quickly setting up projects
 in your favourite language.*
-
+<details>
+  <summary>Templates<summary>
+    
 * [S-ecki/AdventOfCode-Starter-Dart](https://github.com/S-ecki/AdventOfCode-Starter-Dart) *(Dart)*
+    
 * [Reason Starter kit for Advent of Code](https://github.com/ManasJayanth/reason-aoc-starter) *(Reason and OCaml)*
+    
 * [dave-burke/advent-of-code-java-starter](https://github.com/dave-burke/advent-of-code-java-starter) *(Java)*
+    
 * [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) *(Rust)*
+    
 * [nickyvanurk/advent-of-code-rust-template](https://github.com/nickyvanurk/advent-of-code-rust-template) *(Rust)*
+    
 * [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) *(Rust)*
+    
 * [hughjdavey/aoc-kotlin-starter](https://github.com/hughjdavey/aoc-kotlin-starter) *(Kotlin)*
+    
 * [Jadarma/advent-of-code-kotlin](https://github.com/Jadarma/advent-of-code-kotlin/tree/clean-template) *(Kotlin)*
+    
 * [kindermoumoute/adventofcode](https://github.com/kindermoumoute/adventofcode/tree/master/template) *(Go)*
+    
 * [staylorwr/elixir_aoc](https://github.com/staylorwr/elixir_aoc) *(Elixir)*
+    
 * [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) *(Elixir)*
+    
 * [AlexeSimon/adventofcode](https://github.com/AlexeSimon/adventofcode) *(Python)*
+    
 * [UncleCJ/advent-of-code](https://github.com/UncleCJ/advent-of-code) *(Jupyter Python Notebooks)*
+    
 * [sindrekjr/AdventOfCodeBase](https://github.com/sindrekjr/AdventOfCodeBase) *(C#)*
+    
 * [mhanberg/advent-of-code-clojure-starter](https://github.com/mhanberg/advent-of-code-clojure-starter) *(Clojure)*
+    
 * [caderek/aoc-starter-js](https://github.com/caderek/aoc-starter-js) *(JavaScript)*
+    
 * [caderek/aoc-starter-ts](https://github.com/caderek/aoc-starter-ts) *(TypeScript)*
+    
 * [mariotacke/template-advent-of-code](https://github.com/mariotacke/template-advent-of-code) *(JavaScript)*
+    
 * [arkadye/advent_of_code](https://github.com/arkadye/advent_of_code_framework) *(C++)*
+    
 * [eduherminio/AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) *(C#)*
+    
 * [izexi/aoc-ts-template](https://github.com/izexi/aoc-ts-template) *(TypeScript)*
+    
 * [advent-of-code-template](https://github.com/ridaamirini/advent-of-code-template) *(PHP)*
+    
 * [amorriscode/advent-of-code](https://github.com/amorriscode/advent-of-code) *(JavaScript)*
+    
 * [nnari/aoc-typescript-starter](https://github.com/nnari/aoc-typescript-starter) *(TypeScript)*
+    
 * [SpexGuy/Zig-AoC-Template](https://github.com/SpexGuy/Zig-AoC-Template) *(Zig)*
+    
 * [pacso/aoc_rb](https://github.com/pacso/aoc_rb) *(Ruby)*
+    
 * [wizardofzos/aoc2021](https://github.com/wizardofzos/aoc2021) *(Flask-API, Python running REXX on Mainframes)*
+    
 * [ismtabo/advent-of-code-deno-template](https://github.com/ismtabo/advent-of-code-deno-template) *(TypeScript / Deno)*
+    
 * [alvesvaren/AoC-template](https://github.com/alvesvaren/AoC-template) *(Python)*
-
+</details>
+    
 ## Tools and Utilities
 
 * [Alfie](https://alfie.prodo.ai/) -- Online JS editor that helps users solve AoC problems.
