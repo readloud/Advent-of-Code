@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+secret_session_cookie
+**/misc/**/data/*
+**/misc/**/frames/*
+*.py~
